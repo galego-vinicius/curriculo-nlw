@@ -67,8 +67,9 @@ h3 {
 }
 
 .memory h4 {
-  font-weight: 100;
-  color: blue;
+  font-weight: 400;
+  text-decoration: underline;
+  color: #eaeaea;
 }
 
 .memory img {
